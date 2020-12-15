@@ -1,0 +1,55 @@
+.Titulo{
+    font-size: 3.66667rem;
+}
+
+.contenedor{
+    width: 100%;
+}
+
+.arregloMargin{
+    margin-top: 75px;
+}
+
+.quienesSomos{
+    margin-top: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+.quieneSomos{
+    font-size: 50px;
+}
+
+.titulo0{
+    color: #0ad287;
+    margin-top: 10px;
+    font-size: .752rem;
+    justify-content: center;
+    text-align: center;
+}
+
+.titulo1 {
+    color: black;
+    justify-content: center;
+    text-align: center;
+}
+
+.tecnologia{
+    height: 450px;
+    width: 450px;
+}
+.vision{
+    height: 500px;
+    width: 500px;
+}
+
+.experto{
+    height: 450px;
+    width: 450px;
+}
+
+  @media screen and (max-width: 1555px) {
+    .cardAvatar{
+      display: block;
+    }
+  }

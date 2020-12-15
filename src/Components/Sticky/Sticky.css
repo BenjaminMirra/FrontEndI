@@ -1,0 +1,25 @@
+.stick{
+    position: fixed; 
+    bottom: 95px; 
+    right: 15px; 
+    list-style: none; 
+    z-index: 100; 
+    filter: drop-shadow(2px 4px 6px black); 
+}
+
+.primero{
+    margin-bottom: 8px;
+    margin-left: -3px;
+}
+
+.segundo{
+    margin-bottom: 8px;
+}
+
+.tercero{
+    margin-bottom: 8px;
+}
+
+.cuarto{
+    margin-bottom: 8px;
+}

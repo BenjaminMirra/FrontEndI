@@ -1,0 +1,23 @@
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+.blog-footer{
+    padding: 2.5rem;
+    color: white;
+    background-color: #00C2CB;
+    border-top: .05rem solid #e5e5e5;
+}
+
+.text-footer{
+    text-decoration-color: white;
+    color: white;
+}
+
+.barrita-arriba{
+    background-color: #f4f1de;
+    width: 100%;
+    height: 10px;
+}

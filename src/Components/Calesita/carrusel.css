@@ -1,0 +1,17 @@
+.carrusel {
+  max-height: 630px;
+}
+.tituloo {
+  color: #f4f1de;
+  font-family: "Alice", serif;
+  font-size: 50px ;
+  position: absolute;
+  width: 100%;
+  background-color: #00c2cb;
+  bottom: -6%;
+  padding: 20px 0;
+  max-height: 540px;
+  width: 100%;
+  position: relative;
+}
+

@@ -1,0 +1,12 @@
+.tablita{
+    border: solid 1px black;
+}
+
+.margenBoton{
+    margin: 5px;
+}
+
+.botonCancelarEditar{
+    justify-content: space-around;
+    display: flex;
+}

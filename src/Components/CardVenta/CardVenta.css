@@ -1,0 +1,9 @@
+.sombra{
+    box-shadow: -12px 24px 52px 0px rgba(0,0,0,0.75);
+}
+
+.card:hover {
+    box-shadow: 3px 3px 3px 3px;
+    filter: saturate(180%);
+    -webkit-filter: saturate(180%);
+}
